@@ -3,7 +3,7 @@
 
 #define DEFAULT 0
 #define RAISE   1
-#define LOWER   1
+#define LOWER   2
 
 / {
 	keymap {
