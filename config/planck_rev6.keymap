@@ -112,7 +112,7 @@
 
 		raise_layer {
 			bindings = <
-				&trans	&none   	&alt_tab 	&none    	&none    	&alt_tab 	&kp PSCRN  	&kp SLCK  &kp PAUSE_BREAK	&none  				&none  				&bootloader
+				&trans	&none   	&alt_tab 	&none    	&none    	&alt_tab 	&kp PSCRN  	&kp SLCK  &kp PAUSE_BREAK	&alt_tab  		&none  				&bootloader
 				&trans	&kp DEL  	&kp TAB  	&kp UP   	&kp BSPC  &kp RET   &kp INS    	&kp HOME  &kp PG_UP   		&kp C_VOL_DN	&kp C_VOL_UP	&kp C_MUTE
 				&trans	&kp LALT	&kp LEFT	&kp DOWN	&kp RIGHT	&kp ESC		&kp DEL			&kp END		&kp PG_DN				&none					&none					&none
 				&trans	&trans		&trans		&trans		&trans		&trans		&trans			&trans		&trans					&trans				&trans				&trans
